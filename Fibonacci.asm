@@ -1,4 +1,16 @@
-###### A2 Stage 2 Part B ########
+################################################################################
+
+File        : Fibonacci.asm
+
+Date        : Thursday 19th November 2020
+
+Author      : VaileyXO
+
+Description : A loop that generates the Fibonacci sequence to up to ten values.
+
+################################################################################
+
+
 .data # this .data section is where you can simulate stored data in random access memory 
 
 	num1: .word 0	# The fibonacci begin with 0
