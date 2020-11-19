@@ -1,12 +1,12 @@
 ################################################################################
 
-File        : Fibonacci.asm
+# File        : Fibonacci.asm
 
-Date        : Thursday 19th November 2020
+# Date        : Thursday 19th November 2020
 
-Author      : VaileyXO
+# Author      : VaileyXO
 
-Description : A loop that generates the Fibonacci sequence to up to ten values.
+# Description : A loop that generates the Fibonacci sequence to up to ten values.
 
 ################################################################################
 
